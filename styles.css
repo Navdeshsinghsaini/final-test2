@@ -1,0 +1,169 @@
+
+body {
+  margin: 0%;
+}
+
+span {
+  color: white;
+}
+
+#nav {
+  padding: 0px 0px 0px 0px;
+}
+
+#custom-nav {
+  background-color: black;
+  font-size: 1rem;
+  border-bottom: 2px solid white;
+}
+
+
+#logo {
+  font-family: 'Inter';
+  font-style: normal;
+  color: white;
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+a.nav-link {
+  color: white;
+}
+
+a.nav-link:hover {
+  color: gray;
+}
+
+#home {
+ 
+  padding-top: 3rem;
+  background-color: black;
+}
+
+#text {
+  display: grid;
+  font-family: 'Inter';
+  font-style: normal;
+  top:170px;
+  font-weight: 700px;
+  font-size: 100px;
+  line-height: 192px;
+  color: white;
+  margin-left: 25%;
+  margin-bottom: 20px;
+}
+
+
+
+#laptop-img {
+  padding: 12rem 1rem 3rem 1rem;
+  width: 35rem;
+}
+
+.col-sm-12 {
+  display: flex;
+  justify-content: center;
+}
+
+#downarrow {
+  padding-top: 3rem;
+  padding-bottom: 1%;
+  text-align: center;
+}
+
+#downarrow-logo {
+  width: 1%;
+
+}
+
+
+
+#aboutus {
+  background-color: white;
+  padding: 8rem 2rem;
+}
+
+#aboutus-img {
+  height: 700px;
+  width: 600px;
+  padding: 10px;
+  /* margin-left: 10%; */
+}
+
+#about-text {
+  padding: 1rem 0rem 0rem 2rem;
+  justify-content: flex-start;
+  flex-direction: column;
+}
+
+.about-heading {
+  font-size: 60px;
+  font-style: bolder;
+}
+
+#about-text {
+ 
+  font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 39px;
+
+}
+
+
+
+#knowmore {
+  padding: 5rem 3rem 8rem 3rem;
+  margin-top: 0.5%;
+}
+
+.head {
+  font-size: 8rem;
+  font-style: bolder;
+  
+}
+
+.scroll {
+  padding: 5% 0% 4% 0%;
+  border: black;
+  overflow-x: scroll;
+}
+
+.scroll::-webkit-scrollbar {
+  height: 12px;
+}
+
+.scroll::-webkit-scrollbar-thumb {
+  background: cornflowerblue;
+  border-radius: 8px;
+}
+
+#card {
+  padding: 6rem;
+  margin: 2rem;
+  width: 40%;
+  height: 30%;
+  border:1px solid black;
+}
+
+#card:hover {
+  background-color: black;
+  color: white;
+  transition-delay: 0.3s;
+}
+
+
+
+
+#contactus {
+  padding: 10rem 10rem;
+  background-color: black;
+}
+
+#chead {
+  color: white;
+  margin-top: -4rem;
+  padding-bottom: 4rem;
+  text-align: center;
+}
